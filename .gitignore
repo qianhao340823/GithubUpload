@@ -22,3 +22,15 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/AopDataSourceNew/target/classes/META-INF/
+/LeetCode/target/classes/com/sykj/tips/
+/spring-cloud-alibaba-example/dubbo-nacos-example/public-api/target/
+/spring-cloud-alibaba-example/dubbo-nacos-example/dubbo-provider/target/classes/
+/spring-cloud-alibaba-example/dubbo-nacos-example/dubbo-consumer/target/classes/
+/spring-cloud-alibaba-example/.idea/
+/mul-thread-download/.idea/
+/LeetCode/target/classes/com/sykj/tips/
+/.idea/
+/AopDataSourceNew/.idea/
+/LeetCode/target/classes/com/sykj/tips/
+/LeetCode/target/classes/com/sykj/tips/Array.class
